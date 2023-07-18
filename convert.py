@@ -71,6 +71,7 @@ def main():
     print(123)
     print("Welcome to currency converter")
     get_user_value()
+    print("test2")
 
 main()
 
