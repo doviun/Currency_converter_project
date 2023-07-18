@@ -70,6 +70,7 @@ def finish_calc(): # function close user actions and summerize the results
 def main():
     print("Welcome to currency converter")
     get_user_value()
+    print("test2")
 
 main()
 
