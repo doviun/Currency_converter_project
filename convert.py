@@ -2,7 +2,7 @@ import requests
 import os
 from coins import USD, ILS, EUR
 
-result_list = []
+result_list = []   #global
 
 
 def get_user_value():  # function will get user option USD or Shekel or EURO
